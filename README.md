@@ -41,4 +41,4 @@ UVM Environment 구성
 
 3. 참고 링크
 EDAPLAYGROUND 시뮬레이션 코드
-👉 https://www.edaplayground.com/x/DPSeI
+👉 [https://www.edaplayground.com/x/DPSeI](https://www.edaplayground.com/x/DPSe)
